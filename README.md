@@ -46,5 +46,7 @@ Master of Digital Business, Eastern Institute of Technology (EIT), New Zealand
 📧 [rukmalinm-bit](mailto:your-email@example.com)
 
 ---
-
-⭐ *Feel free to explore, download, and share for academic or learning purposes.
+📄 Read the Full Research Paper (View-Only)
+You can view the complete paper online here (no download access):  
+👉 [Open Read-Only PDF on Google Drive]
+⭐https://drive.google.com/file/d/1QB5T53Fa0bRdBcaB0keNKVh2GLwb3d6b/view?usp=drive_link
